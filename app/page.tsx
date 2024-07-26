@@ -46,8 +46,10 @@ export default function Home() {
                 <LocationPicker />
               </div>
             </div>
-            <div>
-              <p className="underline cursor-pointer">Clear all filter</p>
+            <div className="flex-shrink-0">
+              <p className="underline cursor-pointer text-sm whitespace-nowrap">
+                Clear all filter
+              </p>
             </div>
           </div>
 

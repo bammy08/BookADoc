@@ -18,8 +18,8 @@ const DoctorsList = () => {
             '/images/three.jpeg',
           ],
           address: 'Toney Neck Suite 296',
-          favoriteIconBgColor: 'red.500',
-          favoriteIconColor: 'white',
+          favoriteIconBgColor: 'gray.200',
+          favoriteIconColor: 'black',
         }}
       />
       <DoctorCard
@@ -34,8 +34,8 @@ const DoctorsList = () => {
             '/images/one.jpeg',
           ],
           address: 'Heart Center, Building B',
-          favoriteIconBgColor: 'blue.500',
-          favoriteIconColor: 'yellow',
+          favoriteIconBgColor: 'gray.100',
+          favoriteIconColor: 'red',
         }}
         hasSeparator={true}
         showDateSlider={true}
@@ -52,8 +52,8 @@ const DoctorsList = () => {
             '/images/three.jpeg',
           ],
           address: 'Children’s Health Clinic',
-          favoriteIconBgColor: 'green.500',
-          favoriteIconColor: 'pink',
+          favoriteIconBgColor: 'gray.200',
+          favoriteIconColor: 'black',
         }}
         hasSeparator={true}
         showTimeSlots={true}
@@ -70,8 +70,8 @@ const DoctorsList = () => {
             '/images/two.jpeg',
           ],
           address: 'Heart Center, Building B',
-          favoriteIconBgColor: 'blue.500',
-          favoriteIconColor: 'yellow',
+          favoriteIconBgColor: 'gray.200',
+          favoriteIconColor: 'black',
         }}
         hasSeparator={true}
         showDateSlider={true}

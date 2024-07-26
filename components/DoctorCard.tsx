@@ -74,7 +74,7 @@ const DoctorCard = ({
       >
         <Box
           position="relative"
-          maxW="200px"
+          maxW="180px"
           w="100%"
           mb={{ base: '4', md: '0' }}
         >
@@ -85,8 +85,8 @@ const DoctorCard = ({
                   <Image
                     src={image}
                     alt={`doctor-${index}`}
-                    width={180}
-                    height={180}
+                    width={200}
+                    height={200}
                     objectFit="cover"
                     layout="fixed"
                   />
